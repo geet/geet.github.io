@@ -1,2 +1,2 @@
 # geetmblog
-Static blog for get
+Static blog for geetm
